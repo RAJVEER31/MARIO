@@ -1,0 +1,60 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start ,#status{
+    font-size: 22px;
+}
+
+h4{
+    background-color: aquamarine;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+#mario{
+    background: linear-gradient(0deg, rgba(7,233,231,1) 0%, rgba(242,116,116,1) 25%, rgba(69,118,200,1) 40%, rgba(255,0,254,1) 50%, rgba(69,118,200,1) 60%, rgba(174,101,101,1) 75%, rgba(7,233,215,1) 100%);
+}
+
+#lame{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+#w0w{
+    background: radial-gradient(circle, rgba(253,45,45,1) 0%, rgba(241,253,45,1) 8%, rgba(45,253,240,1) 30%, rgba(45,253,153,1) 73%, rgba(34,193,195,1) 100%);
+}
+
+#O{
+    background: radial-gradient(circle, rgba(7,233,231,1) 0%, rgba(69,118,200,1) 40%, rgba(242,116,116,1) 41%, rgba(193,214,41,1) 43%, rgba(255,0,254,1) 46%, rgba(0,18,255,1) 47%, rgba(255,0,0,1) 50%, rgba(0,18,255,1) 53%, rgba(255,0,254,1) 54%, rgba(193,214,41,1) 56%, rgba(242,116,116,1) 59%, rgba(69,118,200,1) 60%, rgba(7,233,215,1) 100%);
+}
